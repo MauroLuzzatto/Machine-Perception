@@ -1,2 +1,4 @@
-# Machine-Perception
-Project Report: Dynamic Gesture Recognition
+## Machine Perception Course Project at ETH
+# Project Report: Dynamic Gesture Recognition
+
+
